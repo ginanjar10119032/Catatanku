@@ -2,7 +2,7 @@ package com.ginanjartg.catatanku;
 
 //NIM     : 10119032
 //NAMA    : GINANJAR TUBAGUS GUMILAR
-//KELAS   : IF-1
+//KELAS   : IF1
 
 import android.content.Intent;
 import android.os.Bundle;
