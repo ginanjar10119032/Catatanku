@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1065787821242",
+    "project_id": "catatanku-b1dd1",
+    "storage_bucket": "catatanku-b1dd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1065787821242:android:3cd45602716f9794348683",
+        "android_client_info": {
+          "package_name": "com.ginanjartg.catatanku"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1065787821242-eu1cr049rnfgjuu9omve8t65635oq8dv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1ZNCGNc2ut_ZE77imcCSzm718R_6YMRc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1065787821242-eu1cr049rnfgjuu9omve8t65635oq8dv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

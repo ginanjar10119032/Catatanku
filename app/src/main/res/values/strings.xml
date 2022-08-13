@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Catatanku</string>
+    <string name="sudah_memiliki_akun">Sudah memiliki akun?</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="sign_in">Login</string>
+    <string name="no_account">Belum memiliki akun ?</string>
+    <string name="sign_up">Register</string>
+    <string name="info">Info</string>
+    <!-- Placeholder text -->
+    <string name="hello_blank_fragment">Hello world</string>
+    <string name="notes">Catatan</string>
+    <string name="versi_app">Versi 1.0</string>
+    <string name="deskripsi_app">Sebuah aplikasi CRUD catatan harian dengan fitur login dan register.</string>
+    <string name="add_note">Tambah catatan</string>
+    <string name="judul">Judul</string>
+    <string name="kategori">Kategori</string>
+    <string name="catatan">Catatan</string>
+    <string name="tambah">Tambah</string>
+    <string name="detail_catatan">Rincian Catatan</string>
+    <string name="simpan">Simpan</string>
+    <string name="edit_catatan">Ubah Catatan</string>
+    <string name="nama">Ginanjar Tubagus Gumilar</string>
+    <string name="nim">10119032</string>
+    <string name="kelas">IF-1</string>
+    <string name="email_saya">ginanjar0822@gmail.com</string>
+    <string name="logout">Log Out</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="akun">Profile</string>
+    <string name="nim_nama_app">Catatanku (10119032)</string>
+    <string name="by">By Ginanjar T. G. (10119032)</string>
+    <string name="placeholder_email">Masukkan alamat email</string>
+    <string name="placeholder_password">Masukkan password</string>
+</resources>

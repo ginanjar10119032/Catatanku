@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/btn_notes" android:icon="@drawable/ic_baseline_sticky_note_2_24" android:title="@string/notes" />
+    <item android:id="@+id/btn_profile" android:icon="@drawable/ic_baseline_account_circle_24" android:title="@string/akun" />
+    <item android:id="@+id/btn_info" android:icon="@drawable/ic_baseline_info_24" android:title="@string/info" />
+</menu>
